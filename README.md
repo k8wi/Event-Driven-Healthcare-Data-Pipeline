@@ -356,15 +356,6 @@ Healthcare provider information may evolve over time, making historical tracking
 * Add Terraform infrastructure provisioning
 * Add dbt transformation layer
 
----
-
-## Author
-
-**Your Name**
-
-LinkedIn: `your-linkedin`
-
-GitHub: `your-github`
 
 ---
 
