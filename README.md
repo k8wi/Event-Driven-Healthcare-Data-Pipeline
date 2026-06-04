@@ -359,4 +359,3 @@ Healthcare provider information may evolve over time, making historical tracking
 
 ---
 
-**If this project helped you, consider giving it a ⭐ on GitHub!**
