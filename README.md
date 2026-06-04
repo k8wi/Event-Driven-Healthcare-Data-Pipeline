@@ -22,9 +22,8 @@ The pipeline follows a **multi-stage ETL architecture** with raw ingestion, clea
 
 ## Architecture
 
-> Add your architecture image here
+<img width="1316" height="2079" alt="architecture" src="https://github.com/user-attachments/assets/7293443b-a302-4df1-ac09-4a106bb49c92" />
 
-![Architecture Diagram](images/architecture-diagram.png)
 
 ### End-to-End Pipeline Flow
 
@@ -306,39 +305,15 @@ FROM fact_tables.fct_claims;'
 
 ---
 
-## Screenshots
-
-### Architecture Diagram
-
-> Add image
-
-```text
-images/architecture-diagram.png
-```
 
 ### Airflow DAG Execution
 
-> Add image
-
-```text
-images/airflow-dag.png
-```
-
-### Dataproc Job Logs
-
-> Add image
-
-```text
-images/dataproc-job.png
-```
+<img width="1879" height="796" alt="Screenshot 2026-06-05 021155" src="https://github.com/user-attachments/assets/e34b22ce-dbd2-460c-88c6-b1b583ac9526" />
 
 ### BigQuery Output Tables
 
-> Add image
-
-```text
-images/bigquery-results.png
-```
+<img width="926" height="422" alt="Screenshot 2026-06-05 021607" src="https://github.com/user-attachments/assets/3291fd6a-4746-4345-b213-f7ed7adaf188" />
+<img width="972" height="483" alt="Screenshot 2026-06-05 021556" src="https://github.com/user-attachments/assets/f1a494c4-3d58-445d-8a76-d585583a7b12" />
 
 ---
 
