@@ -24,6 +24,9 @@ The pipeline follows a **multi-stage ETL architecture** with raw ingestion, clea
 
 <img width="1316" height="2079" alt="architecture" src="https://github.com/user-attachments/assets/7293443b-a302-4df1-ac09-4a106bb49c92" />
 
+### Airflow DAG Execution
+
+<img width="1879" height="796" alt="Screenshot 2026-06-05 021155" src="https://github.com/user-attachments/assets/e34b22ce-dbd2-460c-88c6-b1b583ac9526" />
 
 ### End-to-End Pipeline Flow
 
@@ -306,9 +309,6 @@ FROM fact_tables.fct_claims;'
 ---
 
 
-### Airflow DAG Execution
-
-<img width="1879" height="796" alt="Screenshot 2026-06-05 021155" src="https://github.com/user-attachments/assets/e34b22ce-dbd2-460c-88c6-b1b583ac9526" />
 
 ### BigQuery Output Tables
 
